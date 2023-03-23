@@ -14,7 +14,6 @@
   }
 /*---------------------------------------- REMOVE DARK & WHITE THEME BACKGROUNDS ----------------------------------------*/
   .theme-dark,
-.theme-light
   {
     --background-message-hover: rgba(0, 0, 0, 0);
     --header-primary: #fff;
